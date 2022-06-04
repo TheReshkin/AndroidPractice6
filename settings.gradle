@@ -16,3 +16,4 @@ rootProject.name = "AndroidPractice6"
 include ':app'
 include ':preferences'
 include ':internalfilestorage'
+include ':notebook'
